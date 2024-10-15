@@ -1,2 +1,2 @@
 # homeassistant
-home develop home assistant
+home develop home-assistant
